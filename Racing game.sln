@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing game.CSharp.Plugins", "Racing game.CSharp.Plugins.csproj", "{B20D3EDF-904E-299F-1269-AD1E2AA0A7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing game.CSharp", "Racing game.CSharp.csproj", "{F167E494-02D9-BC10-6C17-C441161B7961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing game.CSharp.Editor.Plugins", "Racing game.CSharp.Editor.Plugins.csproj", "{F4A23297-9554-0805-9A8D-C4BB9BEDF337}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20D3EDF-904E-299F-1269-AD1E2AA0A7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20D3EDF-904E-299F-1269-AD1E2AA0A7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20D3EDF-904E-299F-1269-AD1E2AA0A7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20D3EDF-904E-299F-1269-AD1E2AA0A7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F167E494-02D9-BC10-6C17-C441161B7961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F167E494-02D9-BC10-6C17-C441161B7961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F167E494-02D9-BC10-6C17-C441161B7961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F167E494-02D9-BC10-6C17-C441161B7961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A23297-9554-0805-9A8D-C4BB9BEDF337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A23297-9554-0805-9A8D-C4BB9BEDF337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A23297-9554-0805-9A8D-C4BB9BEDF337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A23297-9554-0805-9A8D-C4BB9BEDF337}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

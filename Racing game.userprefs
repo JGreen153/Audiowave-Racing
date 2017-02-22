@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Racing game.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Camera\OrbitCamera.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Camera\OrbitCamera.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\Control\Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Audio\ReadAudioData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Audio\BasicAudioSpectrum.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
